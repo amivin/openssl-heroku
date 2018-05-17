@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# ## Usage
+#     $ bin/detect <build-dir> <cache-dir>
+# E.g.
+# BUILD_DIR is /tmp/build_5b72bfcaef1adfe4bb7a9e34d80201fc
+# CACHE_DIR is  app
+
+# This buildpack always runs
+echo "OpenSSL"
+exit 0
